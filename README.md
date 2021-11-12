@@ -9,3 +9,4 @@ I'm learning quantum computing and algorithms in my spare time, this repo holds 
 
 ## Index
 * [Hello Q-World](https://github.com/helloerikaaa/quantum/blob/main/basic/hello_qworld.py)
+* [Quantum Parameter-Shift Rule](https://github.com/helloerikaaa/quantum-for-everyone/blob/master/basic/q_parameter_shift.py)
